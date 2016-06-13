@@ -8,9 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 import java.util.ArrayList;
 
-/**
- * Created by user on 2016/6/6.
- */
+
 public class OrderAdapter extends BaseAdapter {
 
     ArrayList<Order> orders;
